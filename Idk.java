@@ -1,5 +1,5 @@
 
-public abstract class Idk {
+public class Idk {
 	
 	private int a;
 	private int b;
